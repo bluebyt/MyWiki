@@ -14,3 +14,11 @@ nautilus --new-window /home/bluebyt/ &
 ```
 sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
 ```
+
+```
+sudo pacman -Scc
+```
+
+```
+systemctl --user restart wireplumber pipewire pipewire-pulse
+```
