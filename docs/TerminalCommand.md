@@ -22,3 +22,7 @@ sudo pacman -Scc
 ```
 systemctl --user restart wireplumber pipewire pipewire-pulse
 ```
+
+```
+source ~/.config/fish/config.fish
+```
