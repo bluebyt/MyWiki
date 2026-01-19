@@ -26,3 +26,7 @@ systemctl --user restart wireplumber pipewire pipewire-pulse
 ```
 source ~/.config/fish/config.fish
 ```
+
+```
+sudo systemctl status mpd.service
+```
