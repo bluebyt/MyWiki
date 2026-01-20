@@ -1,2 +1,111 @@
-## Bluebyt wiki
+# App list
 
+- sudo pacman -S python-pymdown-extensions, mkdocs-material
+- Freetubes
+- Element (Matrix client)
+- meld (Co pare files)
+- pqiv (Image viewer)
+- lxappearance or nwg-look
+- ristretto -s /mnt/media/Deviant/ &
+- vesktop (Discord)
+- wcm (Wayfire config manager)
+- exa or eza (A modern replacement for ls)
+- catnip
+- viu
+- ttf-joypixels
+- sudo pacman -S man-db
+- fd
+- lsd
+- pcmanfm-gtk3
+- thunar
+- thunar-archive-plugin
+- sudo pacman -S xfce4-taskmanager
+- Telegram or tangram (Telegram for Gnome)
+- Celluloid -video player
+- Cavalier -spectrum
+- pamixer -adjust volume
+- catfish
+- czkawka_gui
+- Font Manager
+- gucharmap
+- pdf slider
+- reminder
+- bashtop
+- bpytop
+- ytop
+- btop (Temperature CPU)
+- BashTOP
+- Bpytop [Uninstall gnu-free-fonts]
+- Htop
+- Gtop
+- glances
+- wl-clipboard
+- nitch
+- tldr (Man page)
+- xplr (Terminal file manager)
+- Image roll
+- overskride (Bluetooth manager GTK4)
+- xana spectrum viewer
+- lswt (List all wayland windows)
+- sudo pacman -S gstreamer-vaapi
+- G4music
+- audience-video-player or io.elementary.videos
+- org.gnome.Ptyxis.Devel
+- flatseal (Flatpak permission)
+- xlsclients (List Xwayland app)
+- wl-screenrec
+- mediainfo
+- vainfo
+- intel-gpu-tools
+- waybar-hyprland-cava-git
+- brave-beta-bin
+- ffmpegthumbnailer
+- chromium-bsu game
+- sudo pacman -S tumbler (thumbnail for thunar)
+- swayimg --slideshow --recursive --order=random
+- timg -ps -g30x30 handsfree.jpg
+- sixel
+- easyeffects
+- spotube-bin
+- papers (PDF viewer for Gnome)
+- superfile (Terminal file manager)
+- yazi (Terminal file manager)
+- Parabolic (tubeconverter)
+- Rnote (Note app)
+- swww & waypaper (waypaper manager)
+- Packet Send and receive files wirelessly with Android devices using Quick Share
+- FlatConvert: Media Conversion Tool for the GNOME Desktop
+- sudo npm install -g @google/gemini-cli@latest
+- sudo npm update -g @google/gemini-cli
+- pacman-contrib
+- Shotwell
+- Thunar
+- Waybar
+- Wofi (command: wofi --show drun)
+- Rofi(rofi -show drun, rofi-theme-selector)
+- wlogout
+- KeepassXC
+- gThumb
+- Xfce-terminal
+- Tilix
+- pitivi
+- powerlevel10k
+- virt-manager
+- unrar
+- sudo pacman -S zsh-completions
+- Password safe gnome
+- Shell-color-scripts
+- Lshw (hardware configuration)
+- grim -g "$(slurp)" - | swappy -f -
+
+- gst-libav (Drivers h264)
+- mediainfo
+- libva-utils (vainfo)
+- Easytag
+- Weechat
+- Hexchat
+- nautilus-image-converter
+- pacman-contrib (checkupdates | wc -l)
+- bat, exa, fzf
+- font-manager
+- nmap (cat Documents/Files/patchrules.txt | ncat termbin.com 9999)
